@@ -12,7 +12,7 @@ from urllib.request import urlopen, Request
 import game
 
 
-SERVER = 'grot-server.games.stxnext.pl'
+SERVER = '207.154.242.226:8080'
 TOKEN_FILE = os.path.expanduser('~/.grot_token')
 
 _HELP = {
